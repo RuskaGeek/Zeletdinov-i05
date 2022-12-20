@@ -1,0 +1,24 @@
+[2022-12-01 07:19:10.685] [remoteagent] [info] Extension host agent started.
+[2022-12-01 07:19:11.109] [remoteagent] [info] [127.0.0.1][c2518cbd][ManagementConnection] New connection established.
+[2022-12-01 07:19:11.143] [remoteagent] [info] [127.0.0.1][4622ad2a][ExtensionHostConnection] New connection established.
+[2022-12-01 07:19:11.157] [remoteagent] [info] [127.0.0.1][4622ad2a][ExtensionHostConnection] <3067> Launched Extension Host Process.
+[2022-12-01 07:19:23.733] [remoteagent] [info] [127.0.0.1][c2518cbd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-01 07:19:23.776] [remoteagent] [info] [127.0.0.1][4622ad2a][ExtensionHostConnection] <3067> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 07:19:23.777] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-12-01 07:19:31.389] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-12-01 07:19:31.389] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-12-01 07:19:31.516] [remoteagent] [info] [127.0.0.1][e198cadc][ManagementConnection] New connection established.
+[2022-12-01 07:19:31.517] [remoteagent] [info] [127.0.0.1][cd77d568][ExtensionHostConnection] New connection established.
+[2022-12-01 07:19:31.529] [remoteagent] [info] [127.0.0.1][cd77d568][ExtensionHostConnection] <3233> Launched Extension Host Process.
+[2022-12-01 07:19:33.976] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-12-01 07:19:36.352] [remoteagent] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-12-01 07:19:36.925] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-12-01 07:19:39.318] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/ruslik/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.23.1
+[2022-12-01 07:19:39.636] [remoteagent] [info] Extracted extension to /home/ruslik/.vscode-server/extensions/.a00c9215-6138-48c5-9c47-011168a2cf52: ms-azuretools.vscode-docker
+[2022-12-01 07:19:39.670] [remoteagent] [info] Renamed to /home/ruslik/.vscode-server/extensions/ms-azuretools.vscode-docker-1.23.1
+[2022-12-01 07:19:39.689] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-12-01 07:19:39.698] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-12-01 07:24:31.392] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-12-01 08:23:37.163] [remoteagent] [info] [127.0.0.1][e198cadc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-01 08:23:37.202] [remoteagent] [info] [127.0.0.1][cd77d568][ExtensionHostConnection] <3233> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 08:23:37.203] [remoteagent] [info] Last EH closed, waiting before shutting down

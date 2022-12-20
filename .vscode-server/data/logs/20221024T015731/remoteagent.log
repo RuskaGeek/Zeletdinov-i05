@@ -1,0 +1,19 @@
+[2022-10-24 01:57:31.379] [remoteagent] [info] Extension host agent started.
+[2022-10-24 01:57:31.797] [remoteagent] [info] [127.0.0.1][651786f0][ManagementConnection] New connection established.
+[2022-10-24 01:57:31.831] [remoteagent] [info] [127.0.0.1][fb0938ad][ExtensionHostConnection] New connection established.
+[2022-10-24 01:57:31.848] [remoteagent] [info] [127.0.0.1][fb0938ad][ExtensionHostConnection] <49416> Launched Extension Host Process.
+[2022-10-24 01:57:45.283] [remoteagent] [info] [127.0.0.1][651786f0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-24 01:57:45.319] [remoteagent] [info] [127.0.0.1][fb0938ad][ExtensionHostConnection] <49416> Extension Host Process exited with code: 0, signal: null.
+[2022-10-24 01:57:45.320] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-24 01:58:00.669] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-24 01:58:00.669] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-24 01:58:00.772] [remoteagent] [info] [127.0.0.1][3199841a][ManagementConnection] New connection established.
+[2022-10-24 01:58:00.787] [remoteagent] [info] [127.0.0.1][a8c79238][ExtensionHostConnection] New connection established.
+[2022-10-24 01:58:00.805] [remoteagent] [info] [127.0.0.1][a8c79238][ExtensionHostConnection] <49585> Launched Extension Host Process.
+[2022-10-24 01:58:03.123] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/ruslik/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-24 02:03:00.672] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-10-24 02:19:10.147] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-10-24 04:44:47.041] [remoteagent] [info] [127.0.0.1][3199841a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-24 04:44:47.147] [remoteagent] [info] [127.0.0.1][a8c79238][ExtensionHostConnection] <49585> Extension Host Process exited with code: 0, signal: null.
+[2022-10-24 04:44:47.148] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-24 04:49:47.154] [remoteagent] [info] Last EH closed, shutting down

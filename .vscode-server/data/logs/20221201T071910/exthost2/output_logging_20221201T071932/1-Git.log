@@ -1,0 +1,698 @@
+[2022-12-01T07:19:34.164Z] Log level: Info
+[2022-12-01T07:19:34.180Z] [info] Validating found git in: git
+[2022-12-01T07:19:34.284Z] [info] Using git 2.25.1 from git
+[2022-12-01T07:19:34.335Z] > git rev-parse --show-toplevel [17ms]
+[2022-12-01T07:19:34.335Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:19:34.358Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:19:34.358Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:19:34.384Z] > git rev-parse --show-toplevel [16ms]
+[2022-12-01T07:19:34.384Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:19:34.396Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:19:34.396Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:19:34.414Z] > git rev-parse --show-toplevel [9ms]
+[2022-12-01T07:19:34.414Z] fatal: detected dubious ownership in repository at '/home/ruslik/i05'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik/i05
+[2022-12-01T07:19:34.431Z] > git rev-parse --show-toplevel [5ms]
+[2022-12-01T07:19:34.431Z] fatal: detected dubious ownership in repository at '/home/ruslik/php'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik/php
+[2022-12-01T07:19:34.446Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:19:34.446Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:20:04.877Z] > git rev-parse --show-toplevel [7ms]
+[2022-12-01T07:20:04.877Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:45:40.793Z] > git rev-parse --show-toplevel [8ms]
+[2022-12-01T07:45:40.793Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:45:42.917Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:45:42.917Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:00.753Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:46:00.753Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:25.816Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:46:25.816Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:35.942Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:46:35.942Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:41.407Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:46:41.407Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:46.514Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:46:46.514Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:51.360Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:46:51.360Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:46:57.612Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:46:57.612Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:00.964Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:47:00.964Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:01.779Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:47:01.779Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:05.026Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:47:05.026Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:32.357Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:47:32.357Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:35.358Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:47:35.358Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:42.889Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:47:42.889Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:49.472Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:47:49.472Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:47:53.316Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:47:53.316Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:03.632Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:48:03.632Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:07.000Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:48:07.000Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:13.715Z] > git rev-parse --show-toplevel [5ms]
+[2022-12-01T07:48:13.715Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:35.404Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:48:35.404Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:38.505Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:48:38.505Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:41.530Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:48:41.530Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:42.474Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:48:42.474Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:47.595Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:48:47.596Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:51.760Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:48:51.760Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:48:59.586Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:48:59.586Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:49:03.101Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:49:03.101Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:49:05.108Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:49:05.108Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:49:10.104Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:49:10.104Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:33.113Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:51:33.113Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:38.931Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:51:38.931Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:41.052Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:51:41.052Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:43.825Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:51:43.825Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:51.010Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:51:51.010Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:51:52.843Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:51:52.843Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:06.759Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:52:06.759Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:09.596Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:52:09.596Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:10.867Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:52:10.867Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:14.418Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:52:14.418Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:15.497Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:52:15.497Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:16.727Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:52:16.727Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:17.575Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:52:17.575Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:22.832Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:52:22.832Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:52:24.328Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:52:24.328Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:53:19.129Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:53:19.129Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:53:21.857Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:53:21.857Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:53:46.834Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:53:46.834Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:53:48.982Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:53:48.982Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:33.674Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:54:33.674Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:35.692Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:54:35.692Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:42.470Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:54:42.470Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:45.421Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:54:45.421Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:47.179Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:54:47.179Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:56.318Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:54:56.318Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:54:59.567Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:54:59.567Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:00.602Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:55:00.602Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:04.637Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:55:04.637Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:06.290Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:55:06.290Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:11.100Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:11.100Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:24.158Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:24.158Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:25.428Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:25.428Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:30.191Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:30.191Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:35.213Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:35.213Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:55:42.652Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:55:42.652Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:57:39.895Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:57:39.896Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:57:40.625Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:57:40.625Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:57:45.230Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:57:45.230Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:57:47.054Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:57:47.054Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:57:54.835Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:57:54.835Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:05.406Z] > git rev-parse --show-toplevel [6ms]
+[2022-12-01T07:58:05.406Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:07.468Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:58:07.468Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:08.138Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:58:08.138Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:16.001Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:58:16.001Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:17.011Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:58:17.011Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:20.559Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:58:20.559Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:21.314Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:58:21.314Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:22.151Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:58:22.151Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:25.875Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:58:25.875Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:36.309Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:58:36.309Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:46.448Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T07:58:46.448Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:49.125Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:58:49.125Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:50.036Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T07:58:50.036Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:58:52.976Z] > git rev-parse --show-toplevel [5ms]
+[2022-12-01T07:58:52.976Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:59:44.853Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T07:59:44.853Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T07:59:52.076Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T07:59:52.076Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:00:41.031Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:00:41.031Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:01:05.592Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T08:01:05.593Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:01:51.445Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:01:51.446Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:01:59.832Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:01:59.832Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:02:12.436Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T08:02:12.436Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:02:16.222Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:02:16.222Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:07:53.354Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:07:53.354Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:07:54.958Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:07:54.958Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:07:58.059Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T08:07:58.059Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:07:59.132Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:07:59.132Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:08:13.372Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:08:13.372Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:08:15.528Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:08:15.528Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:08:23.756Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:08:23.756Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:09:02.253Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:09:02.253Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:10:49.029Z] > git rev-parse --show-toplevel [5ms]
+[2022-12-01T08:10:49.029Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:10:52.756Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:10:52.756Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:10:56.640Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:10:56.640Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:10:59.810Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:10:59.810Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:05.452Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:11:05.452Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:19.334Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:11:19.334Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:32.336Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:11:32.336Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:37.801Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:11:37.801Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:48.517Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:11:48.517Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:11:50.049Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:11:50.049Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:29.549Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:12:29.549Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:35.794Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:12:35.794Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:37.016Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:12:37.016Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:38.192Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:12:38.192Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:39.723Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:12:39.723Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:55.053Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:12:55.053Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:12:59.501Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:12:59.501Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:01.750Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:13:01.750Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:05.202Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:13:05.202Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:23.729Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:13:23.729Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:38.646Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:13:38.646Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:42.451Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:13:42.451Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:54.458Z] > git rev-parse --show-toplevel [1ms]
+[2022-12-01T08:13:54.458Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:13:55.793Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:13:55.793Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:14:07.923Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:14:07.923Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:14:27.576Z] > git rev-parse --show-toplevel [2ms]
+[2022-12-01T08:14:27.576Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:14:40.622Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:14:40.623Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:15:53.796Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:15:53.796Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:15:54.994Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:15:54.994Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:15:56.138Z] > git rev-parse --show-toplevel [4ms]
+[2022-12-01T08:15:56.138Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik
+[2022-12-01T08:15:56.977Z] > git rev-parse --show-toplevel [3ms]
+[2022-12-01T08:15:56.977Z] fatal: detected dubious ownership in repository at '/home/ruslik'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ruslik

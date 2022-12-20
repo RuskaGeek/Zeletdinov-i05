@@ -1,0 +1,8 @@
+search.c: find.o search.o
+	gcc search.o find.o -o search
+
+island.o: find.c find.h
+	gcc -c find.c
+
+islandmain.o: search.c find.h
+	gcc -c search.c

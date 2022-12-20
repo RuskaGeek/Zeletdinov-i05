@@ -1,0 +1,28 @@
+version: '3.3'
+services:
+  db:
+    container_name: db
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+    ports:
+      - 3306:3306
+    volumes:
+      - db-data:/var/lib/mysql
+  webserver:
+    container_name: apache
+    image: php:8-apache
+    restart: always
+    ports:
+      - 80:80
+    volumes:
+      - .:/var/www/html
+  phpmyadmin:
+    container_name: phpmyadmin
+    image: phpmyadmin
+    restart: always
+    enviroment:
+      - PMA_ARBITRARY=1
+volumes:
+  db-data:

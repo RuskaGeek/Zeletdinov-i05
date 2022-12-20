@@ -1,0 +1,22 @@
+[2022-10-20 07:27:47.500] [exthost] [info] Extension host with pid 3752 started
+[2022-10-20 07:27:47.502] [exthost] [error] Error: EEXIST: file already exists, open '/home/ruslik/.vscode-server/data/User/workspaceStorage/4780c67b579ba355008d3545ef3288a3/vscode.lock'
+[2022-10-20 07:27:47.509] [exthost] [info] Lock '/home/ruslik/.vscode-server/data/User/workspaceStorage/4780c67b579ba355008d3545ef3288a3/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-10-20 07:27:47.514] [exthost] [info] Lock '/home/ruslik/.vscode-server/data/User/workspaceStorage/4780c67b579ba355008d3545ef3288a3/vscode.lock': The lock does not look stale, elapsed: 802 ms, giving up.
+[2022-10-20 07:27:47.520] [exthost] [info] Lock '/home/ruslik/.vscode-server/data/User/workspaceStorage/4780c67b579ba355008d3545ef3288a3-1/vscode.lock': Lock acquired.
+[2022-10-20 07:27:47.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-10-20 07:27:47.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-20 07:27:47.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-20 07:27:47.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-20 07:27:48.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-20 07:27:48.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-20 07:27:48.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-20 07:27:48.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-20 07:27:48.483] [exthost] [info] Eager extensions activated
+[2022-10-20 07:27:48.849] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2008
+[2022-10-20 07:27:49.845] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2008
+[2022-10-20 07:27:53.932] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2008
+[2022-10-20 07:27:59.228] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2008
+[2022-10-20 07:28:04.422] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2008
+[2022-10-20 08:06:32.726] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-10-20 08:06:32.730] [exthost] [info] Lock '/home/ruslik/.vscode-server/data/User/workspaceStorage/4780c67b579ba355008d3545ef3288a3-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-20 08:06:32.757] [exthost] [info] Extension host with pid 3752 exiting with code 0

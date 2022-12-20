@@ -1,0 +1,11 @@
+[2022-11-03 06:43:05.903] [exthost] [info] Extension host with pid 2831 started
+[2022-11-03 06:43:05.938] [exthost] [info] Lock '/home/ruslik/.vscode-server/data/User/workspaceStorage/3017c379d2594fd1b6317f4b76300a3f/vscode.lock': Lock acquired.
+[2022-11-03 06:43:06.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-03 06:43:06.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-11-03 06:43:06.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-03 06:43:06.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-03 06:43:06.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 06:43:06.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 06:43:06.427] [exthost] [info] Eager extensions activated
+[2022-11-03 06:43:11.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-11-03 06:47:07.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
